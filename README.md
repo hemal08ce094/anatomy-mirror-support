@@ -22,4 +22,4 @@ Say which Mac and macOS version you use and what you saw. Do not attach video of
 
 ## Credits
 
-Anatomy models are derived from BodyParts3D, © The Database Center for Life Science, licensed under CC Attribution 4.0 International.
+Anatomy models are derived from BodyParts3D, © The Database Center for Life Science, licensed under CC Attribution 4.0 International, and from Z-Anatomy (The libre 3D atlas of anatomy), licensed under CC BY-SA 4.0. The meshes adapted from Z-Anatomy are published in [adapted-meshes](adapted-meshes) under CC BY-SA 4.0.

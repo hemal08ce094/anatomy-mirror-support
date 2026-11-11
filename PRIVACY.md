@@ -30,4 +30,4 @@ Questions: open an issue at https://github.com/hemal08ce094/anatomy-mirror-suppo
 
 ## Anatomy data
 
-Anatomy models are derived from BodyParts3D, © The Database Center for Life Science, licensed under CC Attribution 4.0 International. The models show where structures typically sit. They are not a scan of you, and the app is not a medical tool.
+Anatomy models are derived from BodyParts3D, © The Database Center for Life Science, licensed under CC Attribution 4.0 International, and from Z-Anatomy (The libre 3D atlas of anatomy), licensed under CC BY-SA 4.0. The meshes adapted from Z-Anatomy are published in [adapted-meshes](adapted-meshes) under CC BY-SA 4.0.
